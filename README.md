@@ -1,30 +1,32 @@
-# Victor Narváez
-
- Ingeniero de Sistemas con formación en desarrollo backend, redes, bases de datos y sistemas distribuidos.  
- Experiencia en soluciones funcionales utilizando inteligencia artificial, visión computacional y microservicios.  
- Actualmente enfocado en el desarrollo de sistemas con Spring Boot, integración de hardware y servicios en Python basados en inteligencia artificial.
-
----
-
-##  Tecnologías y herramientas
-
-- **Lenguajes**: Java, Python, JavaScript, CSS, HTML, Dart, SQL 
-- **Frameworks y herramientas**: Spring Boot, JPA, OpenCV, PyTorch, YOLO, Angular, CV2
-- **Bases de datos**: PostgreSQL, Mysql  
-- **Infraestructura**: Docker, Git  
-- **Redes**: VLANs, DHCP, VoIP  
-- **Entornos de desarrollo**: IntelliJ IDEA, PyCharm, VS Code, NetBeans
-
----
-
-##  Reconocimientos
-
--  Beca por excelencia académica
--  Distinción Andres Bello (MinEducación)
--  Participación destacada en proyectos de innovación tecnológica aplicada  
--  Liderazgo en desarrollo de sistemas funcionales durante pasantía profesional
+# Víctor Narváez
  
-
----
-
-
+Systems Engineer focused on backend development and IoT. I build cloud-connected systems end to end: from embedded firmware and hardware integration to microservices, REST APIs, and computer vision pipelines.
+ 
+Currently finishing my Systems Engineering degree at Universidad de Nariño (Dec. 2026) and open to backend and IoT opportunities, including remote work.
+ 
+## Featured Projects
+ 
+| Project | Description | Stack |
+|---|---|---|
+| [MoveIoT](https://github.com/VicBoss10) | Environmental monitoring and vehicle detection platform. Cloud microservices architecture integrating a network of IoT devices with custom embedded firmware, JWT/OAuth2 authentication via Keycloak, and a real-time object detection module. | Java, Spring Boot, Python, Docker, PostgreSQL, Angular |
+| [Detect v1](https://github.com/VicBoss10/detect-v1) | Object detection system with backend and frontend included as submodules, oriented toward general-purpose and security use cases. | Python, Computer Vision |
+| [Hand Gesture Control](https://github.com/VicBoss10) | Desktop control system (volume, click, clipboard) driven by real-time hand gesture recognition. | Python, OpenCV |
+| [NewsApi](https://github.com/VicBoss10/newsapi) | Cross-platform news application that consumes an external API and adapts its layout to different devices from a single codebase. | Dart |
+ 
+## Technologies
+ 
+- **Languages:** Java, Python, JavaScript, TypeScript, C++, C#, Kotlin, SQL, Dart, Prolog
+- **Backend:** REST APIs, microservices, Spring Boot, JPA, OAuth2/JWT (Keycloak)
+- **AI & Computer Vision:** PyTorch, OpenCV, YOLO, neural networks (MLP, SOM, Hopfield, RBF)
+- **Databases:** PostgreSQL, MySQL
+- **Infrastructure:** Docker, Git/GitHub, AI-assisted development (Claude Code)
+- **Networking:** VLANs, DHCP, VoIP
+- **Embedded Systems:** microcontrollers (ESP32, Arduino, among others), integration of sensors, actuators, displays, and other peripherals
+## Recognitions
+ 
+- Generación E — Excelencia scholarship (full merit-based scholarship)
+- Andrés Bello Distinction, Colombian Ministry of Education
+## Contact
+ 
+- Email: vicboss042018@gmail.com
+- LinkedIn: [Víctor Manuel Narváez Burbano](https://www.linkedin.com/in/victor-manuel-narvaez-burbano-b0a5103a6/)
