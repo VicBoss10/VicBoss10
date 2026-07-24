@@ -16,7 +16,8 @@ Currently finishing my Systems Engineering degree at Universidad de Nariño (Dec
 ## Technologies
  
 - **Languages:** Java, Python, JavaScript, TypeScript, C++, C#, Kotlin, SQL, Dart, Prolog
-- **Backend:** REST APIs, microservices, Spring Boot, JPA, OAuth2/JWT (Keycloak)
+- **Backend:** REST APIs, microservices, Spring Boot, NestJS, FastAPI, JPA, OAuth2/JWT (Key
+cloak)
 - **AI & Computer Vision:** PyTorch, OpenCV, YOLO, neural networks (MLP, SOM, Hopfield, RBF)
 - **Databases:** PostgreSQL, MySQL
 - **Infrastructure:** Docker, Git/GitHub, AI-assisted development (Claude Code)
