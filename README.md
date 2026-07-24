@@ -30,4 +30,4 @@ cloak)
 ## Contact
  
 - Email: vicboss042018@gmail.com
-- LinkedIn: [Víctor Manuel Narváez Burbano](https://www.linkedin.com/in/victor-manuel-narvaez-burbano-b0a5103a6/)
+- LinkedIn: [Víctor Manuel Narváez Burbano](https://www.linkedin.com/in/victor-narvaez2002)
