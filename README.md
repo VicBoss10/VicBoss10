@@ -9,8 +9,8 @@ Currently finishing my Systems Engineering degree at Universidad de Nariño (Dec
 | Project | Description | Stack |
 |---|---|---|
 | [MoveIoT](https://github.com/VicBoss10) | Environmental monitoring and vehicle detection platform. Cloud microservices architecture integrating a network of IoT devices with custom embedded firmware, JWT/OAuth2 authentication via Keycloak, and a real-time object detection module. | Java, Spring Boot, Python, Docker, PostgreSQL, Angular |
-| [Detect v1](https://github.com/VicBoss10/detect-v1) | Object detection system with backend and frontend included as submodules, oriented toward general-purpose and security use cases. | Python, Computer Vision |
-| [Hand Gesture Control](https://github.com/VicBoss10) | Desktop control system (volume, click, clipboard) driven by real-time hand gesture recognition. | Python, OpenCV |
+| [Detect](https://github.com/VicBoss10/detect-v1) | Object detection system with backend and frontend included as submodules, oriented toward general-purpose and security use cases. | Python, Computer Vision |
+| [Hestia](https://github.com/VicBoss10) | Desktop control system (volume, click, clipboard) driven by real-time hand gesture recognition. | Python, OpenCV |
 | [NewsApi](https://github.com/VicBoss10/newsapi) | Cross-platform news application that consumes an external API and adapts its layout to different devices from a single codebase. | Dart |
  
 ## Technologies
